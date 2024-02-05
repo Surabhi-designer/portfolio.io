@@ -333,12 +333,12 @@ nav.scrolled .menu li a:active {
 }
 
 #about h2:after {
-	top: -23px;
+	top: -6px;
 	content: "";
 	position: relative;
-	left: 49.5%;
+	left: 58%;
 	bottom: 0;
-	width: 230px;
+	width: 300px;
 	height: 4px;
 	display: block;
 	background-color: #ad67ea;
@@ -445,10 +445,10 @@ nav.scrolled .menu li a:active {
 }
 
 #portfolio h2:after {
-	top: -23px;
+	top: -6px;
 	content: "";
 	position: relative;
-	left: 50%;
+	left: 54%;
 	bottom: 0;
 	width: 300px;
 	height: 4px;
@@ -963,12 +963,12 @@ nav.scrolled .menu li a:active {
 }
 
 #contact h2:after {
-	top: -23px;
+	top: -6px;
 	content: "";
 	position: relative;
-	left: 50%;
+	left: 54%;
 	bottom: 0;
-	width: 250px;
+	width: 150px;
 	height: 4px;
 	display: block;
 	background-color: #ad67ea;
