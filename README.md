@@ -1,2 +1,2 @@
 # portfolio.io
-UI/Ux Designer
+UI/UX Designer
